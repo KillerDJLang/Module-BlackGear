@@ -3,7 +3,6 @@
     "66323887c355b8184abdcbe4": {
       "ItemToClone": "5c0e53c886f7747fa54205c7",
       "newID": "66323887c355b8184abdcbe4",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/6b13.bundle",
@@ -17,8 +16,6 @@
           "description": "The main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions. Black color version."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -33,7 +30,6 @@
     "6632396c731443d2935698c6": {
       "ItemToClone": "5c0e541586f7747fa54205c9",
       "newID": "6632396c731443d2935698c6",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/6b13_killa.bundle",
@@ -47,8 +43,6 @@
           "description": "A 6B13 armored vest that has had its ceramic armored plates replaced with lightweight polyethylene plates. The protection class is higher and the weight is lower. This particular set of armor has been personally modified by Killa."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "AddManualCost": true,
@@ -65,7 +59,6 @@
     "663239867c44db1e062accb1": {
       "ItemToClone": "5ab8e79e86f7742d8b372e78",
       "newID": "663239867c44db1e062accb1",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/gzhel.bundle",
@@ -79,8 +72,6 @@
           "description": "The Gzhel assault bulletproof vest is designed for assault units of the Ministry of Internal Affairs and other law enforcement agencies. A special variant of Gzhel-K armor is equipped with ceramic armored panels based on corundum (Russian GOST class 5 protection)."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -95,7 +86,6 @@
     "66323a2fe0e5abeb5c24af36": {
       "ItemToClone": "5e9dacf986f774054d6b89f4",
       "newID": "66323a2fe0e5abeb5c24af36",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/defender2.bundle",
@@ -109,8 +99,6 @@
           "description": "The FORT OK \"Defender-2\" operational kit is a modification of the popular body armor FORT \"Defender\" designed for both VIP and for employees of operational combat units. The kit uses the maximum capabilities of the modular principle of building armor based on steel plates."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -125,7 +113,6 @@
     "66323aa42ac6ad8f605307ae": {
       "ItemToClone": "5ca2151486f774244a3b8d30",
       "newID": "66323aa42ac6ad8f605307ae",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/redut_m.bundle",
@@ -139,8 +126,6 @@
           "description": "\"Redut-M\" is a modified version of the well-proven Redut body armor, which is in service of special units of the FSB. The vest is based on advanced technologies in the field of individual armor. Due to the optimized form of armor elements and the outer cover with a special damping-ventilation system, the Redut M armored vest has excellent functional qualities, which facilitates active actions, including those associated with the use of vehicles and in confined spaces."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -155,7 +140,6 @@
     "66323dd19c9f2d5e4f63a538": {
       "ItemToClone": "5ca21c6986f77479963115a7",
       "newID": "66323dd19c9f2d5e4f63a538",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/redut_t5.bundle",
@@ -169,8 +153,6 @@
           "description": "The FORT \"Redut T5\" armor vest is a reinforced version of Redut armor series, designed with account of the many years of experience in counter-terrorism operations in the Russian Federation."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -185,7 +167,6 @@
     "66323e25931af2814034473d": {
       "ItemToClone": "5c0e655586f774045612eeb2",
       "newID": "66323e25931af2814034473d",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/trooper.bundle",
@@ -199,8 +180,6 @@
           "description": "A plate armor vest by HighCom, popular among USEC PMCs. The lightweight AR500 class 4 (Russian GOST) protection plates cover only the chest and back areas. Black version."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -215,7 +194,6 @@
     "66323e30aacc3c32a9f486f7": {
       "ItemToClone": "5c0e655586f774045612eeb2",
       "newID": "66323e30aacc3c32a9f486f7",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/trooper_clean.bundle",
@@ -229,8 +207,6 @@
           "description": "A plate armor vest by HighCom. The lightweight AR500 class 4 (Russian GOST) protection plates cover only the chest and back areas. Black version."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -245,7 +221,6 @@
     "66323e5953fa17a145a4b30d": {
       "ItemToClone": "5c0e5bab86f77461f55ed1f3",
       "newID": "66323e5953fa17a145a4b30d",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/6b23.bundle",
@@ -259,8 +234,6 @@
           "description": "The \"Zabralo-8\" main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -275,7 +248,6 @@
     "66323eadeea300b85ee5e149": {
       "ItemToClone": "5c0e57ba86f7747fa141986d",
       "newID": "66323eadeea300b85ee5e149",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/6b23.bundle",
@@ -289,8 +261,6 @@
           "description": "The \"Zabralo-8\" main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -305,7 +275,6 @@
     "66323ec0e234c8564e28f833": {
       "ItemToClone": "5b44cd8b86f774503d30cba2",
       "newID": "66323ec0e234c8564e28f833",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/gen4_full.bundle",
@@ -319,8 +288,6 @@
           "description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Full protection kit."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -335,7 +302,6 @@
     "66323efe12fca215cb6fb3cd": {
       "ItemToClone": "5b44cf1486f77431723e3d05",
       "newID": "66323efe12fca215cb6fb3cd",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/gen4_assault.bundle",
@@ -349,8 +315,6 @@
           "description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Increased ergonomics assault kit."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -365,7 +329,6 @@
     "66323f3f40bc83b1456f6869": {
       "ItemToClone": "5b44d0de86f774503d30cba8",
       "newID": "66323f3f40bc83b1456f6869",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/gen4_mobility.bundle",
@@ -379,8 +342,6 @@
           "description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Increased mobility and comfort kit."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -395,7 +356,6 @@
     "66323f84e2825c62ca301465": {
       "ItemToClone": "5ab8e4ed86f7742d8e50c7fa",
       "newID": "66323f84e2825c62ca301465",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/untarvest.bundle",
@@ -409,8 +369,6 @@
           "description": "A class III body armor used by PMCs and security forces all around the world."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -425,7 +383,6 @@
     "66323fc2710252789652713a": {
       "ItemToClone": "60a283193cb70855c43a381d",
       "newID": "66323fc2710252789652713a",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/thor_icba_full.bundle",
@@ -439,8 +396,6 @@
           "description": "The THOR full protection assault body armor equipped with soft and hard armor elements to protect against shrapnel and bullets of pistol and rifle calibers. Manufactured by NFM."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -455,7 +410,6 @@
     "66323fdaf7450107f6970f53": {
       "ItemToClone": "5b44d0de86f774503d30cba8",
       "newID": "66323fdaf7450107f6970f53",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/gen4_light.bundle",
@@ -469,8 +423,6 @@
           "description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Light kit."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -485,7 +437,6 @@
     "6632401b260cfe65e051122b": {
       "ItemToClone": "5e9dacf986f774054d6b89f4",
       "newID": "6632401b260cfe65e051122b",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/defender2_light.bundle",
@@ -499,8 +450,6 @@
           "description": "The FORT OK \"Defender-2\" operational kit is a modification of the popular body armor FORT \"Defender\" designed for both VIP and for employees of operational combat units. The kit uses the maximum capabilities of the modular principle of building armor based on steel plates."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -515,7 +464,6 @@
     "6632404d655b8bde8d0ed90a": {
       "ItemToClone": "5ca2151486f774244a3b8d30",
       "newID": "6632404d655b8bde8d0ed90a",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/redut_light.bundle",
@@ -529,8 +477,6 @@
           "description": "\"Redut-M\" is a modified version of the well-proven Redut body armor, which is in service of special units of the FSB. The vest is based on advanced technologies in the field of individual armor. Due to the optimized form of armor elements and the outer cover with a special damping-ventilation system, the Redut M armored vest has excellent functional qualities, which facilitates active actions, including those associated with the use of vehicles and in confined spaces. Base kit with no additional protection."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -545,7 +491,6 @@
     "663240713e55092cb7e2261d": {
       "ItemToClone": "5ca21c6986f77479963115a7",
       "newID": "663240713e55092cb7e2261d",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/redut_assault.bundle",
@@ -559,8 +504,6 @@
           "description": "\"Redut-M\" is a modified version of the well-proven Redut body armor, which is in service of special units of the FSB. The vest is based on advanced technologies in the field of individual armor. Due to the optimized form of armor elements and the outer cover with a special damping-ventilation system, the Redut M armored vest has excellent functional qualities, which facilitates active actions, including those associated with the use of vehicles and in confined spaces. Assault kit."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -575,7 +518,6 @@
     "6632408f18720109ae4aca28": {
       "ItemToClone": "60a283193cb70855c43a381d",
       "newID": "6632408f18720109ae4aca28",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/thor_icba_light.bundle",
@@ -591,8 +533,6 @@
           "description": "The THOR full protection assault body armor equipped with soft and hard armor elements to protect against shrapnel and bullets of pistol and rifle calibers. Manufactured by NFM. Barebones kit with no extra protection."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -607,7 +547,6 @@
     "663240b5bc6598c859947850": {
       "ItemToClone": "60a283193cb70855c43a381d",
       "newID": "663240b5bc6598c859947850",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/thor_icba_assault.bundle",
@@ -621,8 +560,6 @@
           "description": "The THOR full protection assault body armor equipped with soft and hard armor elements to protect against shrapnel and bullets of pistol and rifle calibers. Manufactured by NFM. Increased ergonomics assault kit."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -637,7 +574,6 @@
     "66324100fe67975eb4f0bdb3": {
       "ItemToClone": "60a283193cb70855c43a381d",
       "newID": "66324100fe67975eb4f0bdb3",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/thor_icba_mobility.bundle",
@@ -651,8 +587,6 @@
           "description": "The THOR full protection assault body armor equipped with soft and hard armor elements to protect against shrapnel and bullets of pistol and rifle calibers. Manufactured by NFM. Increased mobility and comfort kit."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -667,7 +601,6 @@
     "6632413a2ae26ef6a1f5bfb1": {
       "ItemToClone": "5df8a2ca86f7740bfe6df777",
       "newID": "6632413a2ae26ef6a1f5bfb1",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/6B2.bundle",
@@ -681,8 +614,6 @@
           "description": "The \"Zabralo-8\" main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
@@ -697,7 +628,6 @@
     "66324170ce6ed984fdaf0425": {
       "ItemToClone": "5fd4c474dd870108a754b241",
       "newID": "66324170ce6ed984fdaf0425",
-      "parentID": "5448e54d4bdc2dcc718b4568",
       "OverrideProperties": {
         "Prefab": {
           "path": "ArmoredVestsBlack/tactec_armor.bundle",
@@ -711,8 +641,6 @@
           "description": "A plate carrier with armor plates made of polyethylene (Russian GOST class 5 protection). Manufactured by 5.11 Tactical."
         }
       },
-      "HandbookParent": "5b5f701386f774093f2ecf0f",
-      "HandbookPrice": 69999,
       "TraderScheme": {
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
