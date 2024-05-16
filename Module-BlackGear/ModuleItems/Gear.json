@@ -18,9 +18,9 @@
       },
       "TraderScheme": {
         "AddToTrader": true,
-        "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
         "CurrencyToUse": "5449016a4bdc2d6f028b456f",
-        "LoyaltyLevel": 2
+        "LoyaltyLevel": 3
       },
       "CloneToFilters": true,
       "BotPush": {
@@ -42,14 +42,6 @@
           "shortName": "6B13 M Black",
           "description": "A 6B13 armored vest that has had its ceramic armored plates replaced with lightweight polyethylene plates. The protection class is higher and the weight is lower. This particular set of armor has been personally modified by Killa."
         }
-      },
-      "TraderScheme": {
-        "AddToTrader": true,
-        "AddManualCost": true,
-        "TraderToUse": "5a7c2eca46aef81a7ca2145d",
-        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
-        "Cost": 509999,
-        "LoyaltyLevel": 4
       },
       "CloneToFilters": true,
       "BotPush": {
@@ -76,7 +68,7 @@
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
         "CurrencyToUse": "5449016a4bdc2d6f028b456f",
-        "LoyaltyLevel": 2
+        "LoyaltyLevel": 4
       },
       "CloneToFilters": true,
       "BotPush": {
@@ -101,7 +93,7 @@
       },
       "TraderScheme": {
         "AddToTrader": true,
-        "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
         "CurrencyToUse": "5449016a4bdc2d6f028b456f",
         "LoyaltyLevel": 4
       },
@@ -128,9 +120,9 @@
       },
       "TraderScheme": {
         "AddToTrader": true,
-        "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
         "CurrencyToUse": "5449016a4bdc2d6f028b456f",
-        "LoyaltyLevel": 2
+        "LoyaltyLevel": 3
       },
       "CloneToFilters": true,
       "BotPush": {
@@ -155,7 +147,7 @@
       },
       "TraderScheme": {
         "AddToTrader": true,
-        "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
         "CurrencyToUse": "5449016a4bdc2d6f028b456f",
         "LoyaltyLevel": 4
       },
@@ -182,9 +174,9 @@
       },
       "TraderScheme": {
         "AddToTrader": true,
-        "TraderToUse": "5a7c2eca46aef81a7ca2145d",
-        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
-        "LoyaltyLevel": 2
+        "TraderToUse": "5935c25fb3acc3127c3d8cd9",
+        "CurrencyToUse": "5696686a4bdc2da3298b456a",
+        "LoyaltyLevel": 3
       },
       "CloneToFilters": true,
       "BotPush": {
@@ -209,9 +201,9 @@
       },
       "TraderScheme": {
         "AddToTrader": true,
-        "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
         "CurrencyToUse": "5449016a4bdc2d6f028b456f",
-        "LoyaltyLevel": 2
+        "LoyaltyLevel": 3
       },
       "CloneToFilters": true,
       "BotPush": {
@@ -236,7 +228,7 @@
       },
       "TraderScheme": {
         "AddToTrader": true,
-        "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+        "TraderToUse": "54cb50c76803fa8b248b4571",
         "CurrencyToUse": "5449016a4bdc2d6f028b456f",
         "LoyaltyLevel": 1
       },
@@ -290,8 +282,8 @@
       },
       "TraderScheme": {
         "AddToTrader": true,
-        "TraderToUse": "5a7c2eca46aef81a7ca2145d",
-        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "TraderToUse": "5935c25fb3acc3127c3d8cd9",
+        "CurrencyToUse": "5696686a4bdc2da3298b456a",
         "LoyaltyLevel": 4
       },
       "CloneToFilters": true,
@@ -317,7 +309,7 @@
       },
       "TraderScheme": {
         "AddToTrader": true,
-        "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
         "CurrencyToUse": "5449016a4bdc2d6f028b456f",
         "LoyaltyLevel": 3
       },
@@ -344,9 +336,9 @@
       },
       "TraderScheme": {
         "AddToTrader": true,
-        "TraderToUse": "5a7c2eca46aef81a7ca2145d",
-        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
-        "LoyaltyLevel": 2
+        "TraderToUse": "5935c25fb3acc3127c3d8cd9",
+        "CurrencyToUse": "5696686a4bdc2da3298b456a",
+        "LoyaltyLevel": 3
       },
       "CloneToFilters": true,
       "BotPush": {
@@ -371,8 +363,8 @@
       },
       "TraderScheme": {
         "AddToTrader": true,
-        "TraderToUse": "5a7c2eca46aef81a7ca2145d",
-        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "TraderToUse": "5935c25fb3acc3127c3d8cd9",
+        "CurrencyToUse": "5696686a4bdc2da3298b456a",
         "LoyaltyLevel": 1
       },
       "CloneToFilters": true,
@@ -398,7 +390,7 @@
       },
       "TraderScheme": {
         "AddToTrader": true,
-        "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
         "CurrencyToUse": "5449016a4bdc2d6f028b456f",
         "LoyaltyLevel": 4
       },
@@ -454,7 +446,7 @@
         "AddToTrader": true,
         "TraderToUse": "5a7c2eca46aef81a7ca2145d",
         "CurrencyToUse": "5449016a4bdc2d6f028b456f",
-        "LoyaltyLevel": 2
+        "LoyaltyLevel": 3
       },
       "CloneToFilters": true,
       "BotPush": {
@@ -616,7 +608,7 @@
       },
       "TraderScheme": {
         "AddToTrader": true,
-        "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+        "TraderToUse": "54cb50c76803fa8b248b4571",
         "CurrencyToUse": "5449016a4bdc2d6f028b456f",
         "LoyaltyLevel": 1
       },
